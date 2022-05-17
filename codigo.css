@@ -1,0 +1,73 @@
+.leo-contactinfor{ 	
+	color: #A1A1A1; 	
+        padding: 10px 0 68% 20px; 
+       width: 205px; 	}
+
+body {
+  background-color: lightblue;
+}
+
+
+h1{color: crimson}
+
+body{text-align: center}
+
+ul {
+    list-style: none;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+h1{text-decoration: underline}
+
+h1 {
+   text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+label {
+    border: 3px solid blue;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.columna{
+    float: left;
+    width: 50%;
+    padding-right: 5px;
+}
+
+.fila: :after {
+    content:"";
+    clear:both;
+    display: table;
+}
+
+img{
+    max-width: 500%;
+    max-height: 500%; 
+}
+.cat{
+    height: 200px;
+    width: 200px
+}
+
+a{
+    color:darkred;
+    text-decoration:underline
+}
+
+p{
+    font-family:serif;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
